@@ -1,4 +1,4 @@
-// npx hardhat run scripts/deploy.js --network fxTestnet
+// npx hardhat run scripts/deploy.js --network sepolia
 // npx hardhat verify --constructor-args arguments.js --network goerli 0xContractAddress...
 // npx hardhat verify --network sepolia 0xc26465Bccc88eeF6bb3af0376f918f6C7A4548A8
 
